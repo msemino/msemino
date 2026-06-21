@@ -32,6 +32,7 @@
 | Project | What it shows |
 |---|---|
 | **[self-hosted-ai-lab](https://github.com/msemino/self-hosted-ai-lab)** | A two-node (brain/body) personal AI system: a 24/7 agent orchestrator with a local-LLM brain, controlled over chat, with on-device voice transcription. 100% self-hosted. **→ distributed AI architecture.** |
+| **[local-agent-orchestrator](https://github.com/msemino/local-agent-orchestrator)** | A 24/7 agent orchestrator with an uncensored local-LLM brain on a single RTX 3090 — the tuning that took replies from 398 s to 33 s. **→ local LLM ops.** |
 | **[agente-book](https://github.com/msemino/agente-book)** | An extensible LangGraph price-auditing agent — and the engineering call to *drop the LLM* when a deterministic scraper was the right tool. **→ agents + judgment.** |
 | **[attendance-clock-bot](https://github.com/msemino/attendance-clock-bot)** | An idempotent web automation bot and the three-architecture journey (cloud cron → Cloudflare Worker → self-hosted systemd) to make it truly reliable. **→ resilient automation.** |
 
