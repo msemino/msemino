@@ -35,6 +35,8 @@
 | **[local-agent-orchestrator](https://github.com/msemino/local-agent-orchestrator)** | A 24/7 agent orchestrator with an uncensored local-LLM brain on a single RTX 3090 — the tuning that took replies from 398 s to 33 s. **→ local LLM ops.** |
 | **[agente-book](https://github.com/msemino/agente-book)** | An extensible LangGraph price-auditing agent — and the engineering call to *drop the LLM* when a deterministic scraper was the right tool. **→ agents + judgment.** |
 | **[attendance-clock-bot](https://github.com/msemino/attendance-clock-bot)** | An idempotent web automation bot and the three-architecture journey (cloud cron → Cloudflare Worker → self-hosted systemd) to make it truly reliable. **→ resilient automation.** |
+| **[local-voice-recorder](https://github.com/msemino/local-voice-recorder)** | A Windows system-tray app: click to record, whisper.cpp large-v3 transcribes on your own GPU, text lands in the clipboard. No cloud STT, no audio leaves the machine. **→ privacy-first local AI.** |
+| **[whatsapp-voice-transcriber](https://github.com/msemino/whatsapp-voice-transcriber)** | Async two-node pipeline that transcribes incoming WhatsApp voice notes locally (Whisper on RTX 3090) and sends the text back to your self-chat. Queue survives PC sleep. **→ async pipelines + privacy.** |
 
 ---
 
