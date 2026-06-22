@@ -37,6 +37,7 @@
 | **[attendance-clock-bot](https://github.com/msemino/attendance-clock-bot)** | An idempotent web automation bot and the three-architecture journey (cloud cron → Cloudflare Worker → self-hosted systemd) to make it truly reliable. **→ resilient automation.** |
 | **[local-voice-recorder](https://github.com/msemino/local-voice-recorder)** | A Windows system-tray app: click to record, whisper.cpp large-v3 transcribes on your own GPU, text lands in the clipboard. No cloud STT, no audio leaves the machine. **→ privacy-first local AI.** |
 | **[whatsapp-voice-transcriber](https://github.com/msemino/whatsapp-voice-transcriber)** | Async two-node pipeline that transcribes incoming WhatsApp voice notes locally (Whisper on RTX 3090) and sends the text back to your self-chat. Queue survives PC sleep. **→ async pipelines + privacy.** |
+| **[private-clinical-rag](https://github.com/msemino/private-clinical-rag)** | A citation-grade RAG pipeline for high-stakes manuals: hierarchical chunking, ChromaDB, transparent re-ranking, cited answers, and a refusal gate. Embeddings + LLM run on local Ollama — zero data egress. **→ sovereign RAG + judgment.** |
 
 ---
 
