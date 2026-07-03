@@ -6,8 +6,8 @@
 
 **I design and run AI systems that actually ship — RAG pipelines, agents, and local-first infrastructure on hardware I own.** Less "I tried an LLM", more "here's the distributed system, the compliance guardrails, the observability, and why it runs unattended for months."
 
-[![Open to remote](https://img.shields.io/badge/Open%20to-Remote%20roles-3DA639)](mailto:msemino@gmail.com)
-[![Email](https://img.shields.io/badge/Email-msemino@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:msemino@gmail.com)
+[![Open to remote](https://img.shields.io/badge/Open%20to-Remote%20roles-3DA639)](mailto:m_semino@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-m__semino@hotmail.com-0078D4?logo=maildotru&logoColor=white)](mailto:m_semino@hotmail.com)
 
 </div>
 
